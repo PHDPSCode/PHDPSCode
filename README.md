@@ -1,4 +1,4 @@
-# Olá, sou o Pedro Henrique! 👋 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="./curriculo_pedro_qa_2025.pdf" target="_blank"><img src="https://img.shields.io/badge/Currículo-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="25" alt="Currículo PDF"></a>
+# Olá, sou o Pedro Henrique! 👋 <a align="center"; href="./curriculo_pedro_qa_2025.pdf" target="_blank"><img src="https://img.shields.io/badge/Currículo-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="25" alt="Currículo PDF"></a>
 
 ## QA Automation Engineer | Especialista em Cypress
 
