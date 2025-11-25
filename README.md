@@ -1,6 +1,5 @@
 # Olá, sou o Pedro Henrique! 👋
-
-## QA Automation Engineer | Especialista em Cypress
+QA Automation Engineer | Especialista em Cypress
 
 <div align="center">
   <a href="./curriculo_pedro_qa_2025.pdf" target="_blank">
