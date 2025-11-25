@@ -6,6 +6,12 @@ Sou um Analista de Qualidade de Software apaixonado por **construir qualidade** 
 
 Atualmente, lidero estratégias de automação que transformam processos manuais demorados em pipelines ágeis e confiáveis.
 
+<div align="center">
+  <a href="./curriculo_pedro_qa_2025.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Currículo-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Currículo PDF">
+  </a>
+</div>
+
 ---
 
 ### 🚀 Destaque Profissional
