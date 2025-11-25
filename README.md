@@ -1,16 +1,16 @@
 # Olá, sou o Pedro Henrique! 👋
 
-## QA Automation Engineer | Especialista em Cypress
-
-Sou um Analista de Qualidade de Software apaixonado por **construir qualidade** desde o início do ciclo de desenvolvimento. Atuo com foco em automação de testes robusta, melhoria contínua de processos e garantia da eficiência das entregas.
-
-Atualmente, lidero estratégias de automação que transformam processos manuais demorados em pipelines ágeis e confiáveis.
-
 <div align="center">
   <a href="./curriculo_pedro_qa_2025.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Currículo-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Currículo PDF">
   </a>
 </div>
+
+## QA Automation Engineer | Especialista em Cypress
+
+Sou um Analista de Qualidade de Software apaixonado por **construir qualidade** desde o início do ciclo de desenvolvimento. Atuo com foco em automação de testes robusta, melhoria contínua de processos e garantia da eficiência das entregas.
+
+Atualmente, lidero estratégias de automação que transformam processos manuais demorados em pipelines ágeis e confiáveis.
 
 ---
 
