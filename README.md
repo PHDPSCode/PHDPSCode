@@ -16,6 +16,7 @@ Atualmente, lidero estratégias de automação que transformam processos manuais
 ### 🛠️ Tech Stack
 
 **Automação & Testes:**
+
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-00C0B5?style=for-the-badge&logo=robot-framework&logoColor=white)
@@ -23,6 +24,7 @@ Atualmente, lidero estratégias de automação que transformam processos manuais
 ![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
 
 **Linguagens:**
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,6 +32,7 @@ Atualmente, lidero estratégias de automação que transformam processos manuais
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Ferramentas & DevOps:**
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -76,10 +79,12 @@ Atualmente, lidero estratégias de automação que transformam processos manuais
   <a href="https://www.linkedin.com/in/pedro-h-de-paula/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="mailto:ph.dpaula2602@gmail.com">
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:ph.dpaula2602@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
-  <a href="https://wa.me/5567993095659" target="_blank">
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://wa.me/5567993095659" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
   </a>
 </div>
